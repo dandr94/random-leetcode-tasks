@@ -17,3 +17,5 @@ class Solution:
 sol = Solution()
 print(sol.differenceOfSum(nums=[1, 15, 6, 3]))
 print(sol.differenceOfSum(nums=[1, 2, 3, 4]))
+
+# Problem - https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/
