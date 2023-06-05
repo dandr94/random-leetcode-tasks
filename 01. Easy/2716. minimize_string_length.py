@@ -4,8 +4,8 @@ class Solution:
 
 
 sol = Solution()
-print(sol.minimizedStringLength(s = "aaabc"))
-print(sol.minimizedStringLength(s = "cbbd"))
-print(sol.minimizedStringLength(s = "dddaaa"))
+print(sol.minimizedStringLength(s="aaabc"))
+print(sol.minimizedStringLength(s="cbbd"))
+print(sol.minimizedStringLength(s="dddaaa"))
 
-# Problem - https://leetcode.com/contest/weekly-contest-348/problems/minimize-string-length/
+# https://leetcode.com/problems/minimize-string-length/description/
